@@ -1,11 +1,11 @@
 import React from 'react';
-import './header.css'
+import './header.css';
 
 function Header() {
     return (
-        <div>
+        <header>
             <h1>Ja<span className='violet'>mmm</span>ing</h1>
-        </div>
+        </header>
     );
 };
 

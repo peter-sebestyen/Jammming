@@ -1,4 +1,4 @@
-div{
+header{
     display: flex;
     width: 95%;
     height: 100%;
@@ -9,13 +9,13 @@ div{
     background-color: rgb(40, 0, 100);
     color: rgb(235, 245, 255);
     border-radius: 0.5rem;
-}
+  };
 
-div h1 {
+  header h1 {
     margin: 0;
-}
-
-.violet{
+  }
+  
+  .violet{
     color: rgb(76, 0, 255);
+  }
 
-}
