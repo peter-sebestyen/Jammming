@@ -9,16 +9,18 @@ const result = {
 function Playlist() {
     return (
         <div className='playlist'>
-        <table>
-            <tbody>
-                <tr>
-                    <td>{result.title}
-                        <br/>
-                        {result.artist}
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>{result.title}
+                            <br/>
+                            {result.artist}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <button>Save to Spotify</button>
     </div>
     )
 }

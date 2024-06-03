@@ -1,5 +1,11 @@
 .playlist {
+    display: grid;
     background-color: rgba(180, 120, 255, 0.8);
     border-radius: 0.7rem;
     padding: 1rem;
+}
+
+.playlist button {
+    justify-self: center;
+    max-width: fit-content;
 }
