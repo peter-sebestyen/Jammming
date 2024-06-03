@@ -3,7 +3,8 @@ import './searchResults.css';
 
 const result = {
     title: 'Highway to Hell',
-    artist: 'AC/DC'
+    artist: 'AC/DC',
+    
 }
 
 function SearchResults() {

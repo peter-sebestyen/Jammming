@@ -1,5 +1,5 @@
 .searchResults {
-    background-color: aliceblue;
-    width: 50%;
-    margin: 2rem 1% 10% 5%;
+    background-color: rgba(180, 120, 255, 0.8);
+    border-radius: 0.7rem;
+    padding: 1rem;
 }

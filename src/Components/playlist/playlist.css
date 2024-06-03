@@ -1,4 +1,5 @@
 .playlist {
-    background-color: aliceblue;
-    width: 25%;
+    background-color: rgba(180, 120, 255, 0.8);
+    border-radius: 0.7rem;
+    padding: 1rem;
 }
